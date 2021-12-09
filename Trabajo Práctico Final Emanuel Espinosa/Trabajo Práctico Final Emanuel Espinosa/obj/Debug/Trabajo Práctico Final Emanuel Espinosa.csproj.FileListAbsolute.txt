@@ -1,0 +1,10 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\bin\Debug\Trabajo Práctico Final Emanuel Espinosa.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\bin\Debug\Trabajo Práctico Final Emanuel Espinosa.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\obj\Debug\Trabajo Práctico Final Emanuel Espinosa.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\obj\Debug\Trabajo Práctico Final Emanuel Espinosa.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\obj\Debug\Trabajo Práctico Final Emanuel Espinosa.pdb
+C:\Users\emanu\Documents\COMPAQ\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\bin\Debug\Trabajo Práctico Final Emanuel Espinosa.exe
+C:\Users\emanu\Documents\COMPAQ\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\bin\Debug\Trabajo Práctico Final Emanuel Espinosa.pdb
+C:\Users\emanu\Documents\COMPAQ\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\obj\Debug\Trabajo Práctico Final Emanuel Espinosa.csprojResolveAssemblyReference.cache
+C:\Users\emanu\Documents\COMPAQ\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\obj\Debug\Trabajo Práctico Final Emanuel Espinosa.exe
+C:\Users\emanu\Documents\COMPAQ\SharpDevelop Projects\Trabajo Práctico Final Emanuel Espinosa\Trabajo Práctico Final Emanuel Espinosa\obj\Debug\Trabajo Práctico Final Emanuel Espinosa.pdb

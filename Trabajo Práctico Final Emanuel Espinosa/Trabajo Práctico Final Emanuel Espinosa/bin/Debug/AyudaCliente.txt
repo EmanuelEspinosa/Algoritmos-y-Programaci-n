@@ -1,0 +1,46 @@
+                                    <<< AYUDA - "AREA CLIENTES" >>>
+
+1) CARGAR NUEVOS CLIENTES:
+Si se quiere dar el alta a nuevos clientes, primero hay que verificar que haya técnicos cargados en el sistema, 
+ya que no se permite añadir nuevos clientes si la lista de técnicos esta vacía. 
+Para comprobar lo mencionado, proceda de la siguiente manera: 
+(MENU PRINCIPAL) 2. AREA TECNICOS ---> 3. MOSTRAR LA LISTA DE TECNICOS. Aquí podrá ver la información correspondiente 
+a los técnicos contratados, si no hay ningún técnico, es fundamental añadir uno para que el sistema permita 
+gestionar el alta a los nuevos clientes.
+
+2) GESTIONAR BAJA A CLIENTE: 
+Para gestionar la baja de un cliente se pide que ingrese el código ID del mismo, el cual se le asigno cuando se 
+le dio de alta. Este código consta de los 2(dos) primero dígitos del nombre + más N° Dni + 2(dos) últimos dígitos 
+del apellido. 
+En la lista de clientes este código se muestra en el formato: AA-11111111-AA, no obstante, cuando se solicita 
+que ingrese el código, debe hacerlo sin guiones ni espacios; es decir, AA11111111AA.Luego se solicita fecha de 
+baja del servicio y motivo, siendo esta última una breve aclaración acerca de cuál fue el motivo por el 
+cual el cliente ha decido dar de baja el servicio.
+
+3) VER LISTA DE CLIENTES:
+Al visualizar la lista, a los clientes que no se les haya podido asignar un técnico (porque no hay ninguno para la zona de residencia del cliente) se les asignara por defecto como nombre del técnico la referencia: "NO TEC ASIG ZONA". 
+En el momento que se modifique la lista de técnicos, agregando uno que trabaje en la localidad donde vive el/los 
+clientes en cuestión, la referencia anteriormente mencionada desaparecerá y en su lugar va a aparecer el nombre 
+del técnico correspondiente. 
+También puede suceder que haya ingresado mal la localidad de residencia del cliente, si este es el caso, 
+entonces deberá dar de baja el cliente indicando en el apartado de motivo "Cliente dado de baja por datos erróneos", 
+y volver a gestionar el alta del mismo, ingresando la localidad de manera correcta. 
+Al visualizar la lista, a los clientes que no les haya podido asignar un precio de plan, 
+se les asignara por defecto "$0 ". Esto se produce porque al momento de gestionar el alta del cliente 
+se ingresó un nombre de plan incorrecto. Para solucionar esto, puede modificar el plan del cliente para que 
+se le asigne el costo mensual correspondiente, siguiendo la siguiente ruta: 
+(MENU PRINCIPAL) 3.  AREA SERVICIOS Y PLANES ---> 5. MODIFICAR PLAN CONTRATADO POR CLIENTE. 
+Aquí se solicitará que ingrese el código ID del cliente, el nombre del plan y la forma de pago. 
+Si el problema persiste, entonces corrobore la lista de planes, siguiendo la siguiente ruta: 
+(MENU PRINCIPAL) 3.  AREA SERVICIOS Y PLANES ---> 3. VER LISTA DE PLANES, si el plan elegido por el 
+cliente no está en la lista de planes:
+1- Si el plan, efectivamente es ofrecido por la empresa, entonces cargar el mismo en la sección correspondiente.
+2- informar el cliente que el plan ya no está disponible y ofrecer otro de la lista.
+
+5) VER CLIENTE SEGUN SU POSICION EN LA LISTA:
+El número de posición del cliente aparece al comienzo de cada entrada de la lista en la forma: 0),1),2) ...n). 
+Tener en cuenta que el número de posición se modifica en base a los cambios que se pueden producir en la lista, 
+como por ejemplo dar de baja un cliente. Si determinado cliente tiene número de posición '5)', 
+al dar de baja un cliente, ese cliente de posición 5 va a pasar a tener posición '4)'. 
+Esto significa que el número de posición no es un número fijo, sino que se actualiza en cada cambio de la lista 
+de clientes.   

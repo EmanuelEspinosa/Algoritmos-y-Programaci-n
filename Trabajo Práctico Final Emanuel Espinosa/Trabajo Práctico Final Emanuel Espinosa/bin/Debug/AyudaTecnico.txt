@@ -1,0 +1,16 @@
+                                    <<< AYUDA - "AREA TÉCNICOS" >>>
+
+2) GESTIONAR LA BAJA DE UN TECNICO:
+Para gestionar la baja de un técnico se pide que ingrese el código ID del mismo, el cual se le asigno cuando se 
+le dio de alta. Este código consta del N° Dni + 2(dos) primero dígitos del nombre + 2(dos) primeros dígitos 
+del apellido. 
+En la lista de técnicos este código se muestra en el formato: 11111111-AA-AA, no obstante, cuando se solicita 
+que ingrese el código, debe hacerlo sin guiones ni espacios; es decir, 11111111AAAA.
+
+5) VER TECNICO:
+El número de posición del técnico aparece al comienzo de cada entrada de la lista en la forma: 0),1),2) ...n). 
+Tener en cuenta que el número de posición se modifica en base a los cambios que se pueden producir en la lista, 
+como por ejemplo dar de baja un técnico. Si un determinado técnico tiene número de posición '3)', 
+al dar de baja un técnico, ese técnico de posición 3 va a pasar a tener posición '2)'. 
+Esto significa que el número de posición no es un número fijo, sino que se actualiza en cada cambio de la lista 
+de técnicos.
