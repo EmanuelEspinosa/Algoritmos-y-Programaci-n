@@ -1,0 +1,5 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\EXAMEN\EXAMEN\obj\Debug\EXAMEN.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\EXAMEN\EXAMEN\bin\Debug\EXAMEN.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\EXAMEN\EXAMEN\bin\Debug\EXAMEN.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\EXAMEN\EXAMEN\obj\Debug\EXAMEN.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\EXAMEN\EXAMEN\obj\Debug\EXAMEN.pdb

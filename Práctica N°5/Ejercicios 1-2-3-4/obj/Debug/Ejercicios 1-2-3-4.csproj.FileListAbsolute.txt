@@ -1,0 +1,5 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°5\Ejercicios 1-2-3-4\bin\Debug\Ejercicios 1-2-3-4.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°5\Ejercicios 1-2-3-4\bin\Debug\Ejercicios 1-2-3-4.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°5\Ejercicios 1-2-3-4\obj\Debug\Ejercicios 1-2-3-4.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°5\Ejercicios 1-2-3-4\obj\Debug\Ejercicios 1-2-3-4.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°5\Ejercicios 1-2-3-4\obj\Debug\Ejercicios 1-2-3-4.pdb

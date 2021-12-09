@@ -1,0 +1,4 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°7\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°7\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°7\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°7\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

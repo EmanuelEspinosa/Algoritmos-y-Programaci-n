@@ -1,0 +1,5 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°2\Ejercicio 3 - 2°Forma\bin\Debug\Ejercicio 3 - 2°Forma.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°2\Ejercicio 3 - 2°Forma\bin\Debug\Ejercicio 3 - 2°Forma.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°2\Ejercicio 3 - 2°Forma\obj\Debug\Ejercicio 3 - 2°Forma.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°2\Ejercicio 3 - 2°Forma\obj\Debug\Ejercicio 3 - 2°Forma.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Práctica N°2\Ejercicio 3 - 2°Forma\obj\Debug\Ejercicio 3 - 2°Forma.pdb
