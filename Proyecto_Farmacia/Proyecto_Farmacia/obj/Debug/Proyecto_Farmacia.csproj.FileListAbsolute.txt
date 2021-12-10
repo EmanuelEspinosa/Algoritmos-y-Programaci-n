@@ -1,0 +1,6 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Proyecto_Farmacia\Proyecto_Farmacia\bin\Debug\Proyecto_Farmacia.exe.config
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Proyecto_Farmacia\Proyecto_Farmacia\bin\Debug\Proyecto_Farmacia.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Proyecto_Farmacia\Proyecto_Farmacia\bin\Debug\Proyecto_Farmacia.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Proyecto_Farmacia\Proyecto_Farmacia\obj\Debug\Proyecto_Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Proyecto_Farmacia\Proyecto_Farmacia\obj\Debug\Proyecto_Farmacia.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Proyecto_Farmacia\Proyecto_Farmacia\obj\Debug\Proyecto_Farmacia.pdb
